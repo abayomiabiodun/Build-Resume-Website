@@ -11,7 +11,7 @@ Using the power of github.dev, a service that allows you to work with files in G
 | **What will you learn**       | Basics of HTML and CSS to showcase your skills in an online resume                                        |
 | **What you'll need**          | A modern web browser like [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) or [Google Chrome](https://www.google.com/chrome/) and a [GitHub account](https://github.com) |
 | **Duration**                  | 1 - 1.5 hour(s)                                                                |
-| **Just want to try the app or see the solution?** | [Solution](./Build A Resume Website)                         |
+| **Just want to try the app or see the solution?** | [Solution](Build A Resume Website)                         |
 | **Slides** | [Powerpoint](slide.pptx)
 | **Author** | [Abayomi Abiodun](https://www.linkedin.com/in/abayomi-abiodun-49201a1ab/)
 
